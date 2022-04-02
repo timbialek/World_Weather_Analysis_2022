@@ -14,7 +14,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 34,Pochutla,MX,77.83,clear sky,15.7432,-96.4661,Hotel Posada San Jose
 44,Conde,BR,76.46,scattered clouds,-7.2597,-34.9075,Pousada Beija Flor
 48,Luganville,VU,85.28,scattered clouds,-15.5333,167.1667,The Espiritu Hotel
-49,Timbiqui,CO,75.81,overcast clouds,2.7717,-77.6654,hotel diana
+49,Timbiqui,CO,75.81,overcast clouds,2.7717,-77.6654,Hotel Sharey
 53,Metro,ID,87.01,broken clouds,-5.1131,105.3067,OYO 3177 Wisma Lintang
 56,Carnarvon,AU,84.27,clear sky,-24.8667,113.6333,Hospitality Carnarvon
 65,Esperance,AU,80.44,few clouds,-33.8667,121.9,Hospitality Esperance
@@ -37,7 +37,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 137,Soe,ID,82.04,broken clouds,-9.8607,124.284,Dena Hotel
 139,Tautira,PF,81.05,broken clouds,-17.7333,-149.15,Pension Oaoa
 148,Avarua,CK,84.25,few clouds,-21.2078,-159.775,Paradise Inn
-150,Nabire,ID,84.94,overcast clouds,-3.3667,135.4833,Hotel Nusantara Nabire
+150,Nabire,ID,84.94,overcast clouds,-3.3667,135.4833,Hotel Nusantara I
 151,Luanda,AO,77.25,overcast clouds,-8.8368,13.2343,EPIC SANA Luanda
 152,Touros,BR,79.11,overcast clouds,-5.1989,-35.4608,INN NEW HORIZON
 160,Kawalu,ID,87.46,overcast clouds,-7.3817,108.2082,West Jontor
@@ -68,7 +68,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 265,Mareeba,AU,77.43,light rain,-17.0,145.4333,Trinity Plains Tourist Park
 269,Epe,NG,77.5,broken clouds,6.5841,3.9834,MAGVILLE HOTEL
 271,Omboue,GA,78.1,light rain,-1.5746,9.2618,Hotel Olako
-272,Hinganghat,IN,88.48,clear sky,20.5667,78.8333,RuPeSH MeNDHe ReSiDeNCe.
+272,Hinganghat,IN,88.48,clear sky,20.5667,78.8333,Zambre Villa
 279,Kirakira,SB,85.14,scattered clouds,-10.4544,161.9205,SanBiz Lodge
 286,Gondanglegi,ID,87.19,overcast clouds,-7.7479,112.0132,pondok pesantren mamba'ul 'ulum selo rejo
 287,Xucheng,CN,77.79,broken clouds,20.35,110.1288,Haixing Hotel
@@ -76,7 +76,7 @@ City_ID,City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
 290,Kununurra,AU,89.58,few clouds,-15.7667,128.7333,Hotel Kununurra
 292,Caravelas,BR,76.93,overcast clouds,-17.7125,-39.2481,Pousada dos Navegantes
 297,Gladstone,AU,84.13,overcast clouds,-23.85,151.25,Highpoint International Hotel
-298,Bodhan,IN,87.67,clear sky,18.6667,77.9,SYED AFROZ MANZIL
+298,Bodhan,IN,87.67,clear sky,18.6667,77.9,Rahman. House
 301,Bengkulu,ID,84.31,overcast clouds,-3.8004,102.2655,Grage Hotel Bengkulu
 304,Veraval,IN,85.19,clear sky,20.9,70.3667,Lords Inn Somnath
 316,Auki,SB,85.73,broken clouds,-8.7676,160.7034,Auki Motel
